@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
 
 
 // Отредактировал 1ый раз
+// Отредактировал 2ой раз
